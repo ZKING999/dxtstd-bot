@@ -3,7 +3,7 @@
         "profile": {
             "name": "DentaCH"
         },
-        "NoPhone": "6281242860439",
+        "NoPhone": "923030746588",
         "donate": {
             "saweria": "https://saweria.co/dentach",
             "paypal": "https://paypal.me/dentaft"
@@ -11,5 +11,5 @@
     },
     "timezone": "Asia/Makassar",
     "website": "https://",
-    "prefix": "%"
+    "prefix": "."
 }
